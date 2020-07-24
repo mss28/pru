@@ -30,7 +30,7 @@
           "xterm": "1.2.0",
           "jquery": "1.2.0",
           "mongoose": "1.2.0",
-          "nes": "1.2.0",
+          "nes": "10.0.2",
           "serve": "1.2.0"
     },
     "devDependencies": {
@@ -52,7 +52,7 @@
           "xterm": "1.2.0",
           "jquery": "1.2.0",
           "mongoose": "1.2.0",
-          "nes": "1.2.0",
+          "nes": "10.0.2",
           "serve": "1.2.0"
     },
      "bundledDependencies": {
