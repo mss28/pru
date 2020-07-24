@@ -12,7 +12,26 @@
     "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
     "license": "MIT",
     "dependencies": {
-        "underscore": "^1.6.0"
+       "harp": "0.20.0",
+          "remarkable": "2.0.1",
+          "buttle": "0.1.0",
+          "jvminstall": "0.1.0",
+          "fibjs": "0.1.0",
+          "curses": "0.0.1",
+          "poco": "1.1.0",
+          "massif": "0.0.1-1",
+          "ipip": "1.1.0",
+          "robot-js": "1.1.0",
+          "semver": "1.0.0",
+          "bootstrap": "1.0.0",
+          "lodash": "1.0.0",
+          "keystone": "1.2.0",
+          "handlebars": "1.2.0",
+          "xterm": "1.2.0",
+          "jquery": "1.2.0",
+          "mongoose": "1.2.0",
+          "nes": "1.2.0",
+          "serve": "1.2.0"
     },
     "devDependencies": {
           "harp": "0.20.0",
