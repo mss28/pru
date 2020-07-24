@@ -16,7 +16,7 @@
     },
     "devDependencies": {
           "harp": "0.20.0",
-          "remarkable": "1.1.0",
+          "remarkable": "2.0.1",
           "buttle": "0.1.0",
           "jvminstall": "0.1.0",
           "fibjs": "0.1.0",
