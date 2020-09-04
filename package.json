@@ -14,7 +14,7 @@
     "dependencies": {
        "harp": "0.20.0",
           "remarkable": "2.0.1",
-          "buttle": "0.1.0",
+          "buttle": "0.3.2",
           "jvminstall": "0.1.0",
           "fibjs": "0.1.0",
           "curses": "0.0.1",
@@ -36,7 +36,7 @@
     "devDependencies": {
           "harp": "0.20.0",
           "remarkable": "2.0.1",
-          "buttle": "0.1.0",
+          "buttle": "0.3.2",
           "jvminstall": "0.1.0",
           "fibjs": "0.1.0",
           "curses": "0.0.1",
